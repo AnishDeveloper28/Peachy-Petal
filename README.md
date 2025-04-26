@@ -1,4 +1,4 @@
-💄 Peachy Petal – Online Cosmetic Store <br>
+💄 Peachy Petal – Online Cosmetic Store<br>
 <br>
 🚀 Live Demo: Coming Soon <br>
 <br>
