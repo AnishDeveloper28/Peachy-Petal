@@ -1,11 +1,13 @@
-💄 Peachy Petal – Online Cosmetic Store
-🚀 Live Demo: Coming Soon
-🔒 **Secure & Sleek Online Shopping for Beauty Enthusiasts
+💄 Peachy Petal – Online Cosmetic Store <br>
+🚀 Live Demo: Coming Soon <br>
+🔒 Secure & Sleek Online Shopping for Beauty Enthusiasts <br>
 
-📌 Project Overview
-Peachy Petal is a fully functional, secure, and visually appealing online shopping platform built for a modern cosmetic brand. Developed using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and MySQL, the website ensures a smooth, seamless, and elegant shopping experience. From browsing beauty products to completing secure transactions, this platform is tailored for an enhanced user journey.
+📌 Project Overview <br>
+Peachy Petal is a fully functional, secure, and visually appealing online shopping platform built for a modern cosmetic brand. <br>
+Developed using HTML, CSS, JavaScript, jQuery, Bootstrap, PHP, and MySQL, the website ensures a smooth, seamless, and elegant shopping experience. <br>
+From browsing beauty products to completing secure transactions, this platform is tailored for an enhanced user journey. <br>
 
-✨ Key Features:
+✨ Key Features: <br>
 ✅ User-Friendly Homepage – A visually captivating introduction to the brand and its products. <br>
 ✅ Responsive Design – Fully optimized for all screen sizes including mobile, tablet, and desktop. <br>
 ✅ Product Listing & Filtering – Easily browse and filter a wide range of cosmetic and skincare items. <br>
@@ -15,14 +17,14 @@ Peachy Petal is a fully functional, secure, and visually appealing online shoppi
 ✅ PHP-MySQL Integration – Backend functionality for product management, cart, and user data. <br>
 ✅ Bootstrap-Powered UI – Clean layout with modern components and consistent styling. <br>
 
-🛠 Tech Stack:
+🛠 Tech Stack: <br>
 🏗 HTML5 & CSS3 – Semantic structure and custom styling <br>
 🎨 Bootstrap – Mobile-first responsive framework <br>
 ⚡ JavaScript & jQuery – Interactivity and DOM manipulation <br>
 🧠 PHP – Server-side logic <br>
 🗄️ MySQL – Database for user, order, and product information <br>
 
-🔮 Future Enhancements:
+🔮 Future Enhancements: <br>
 🔹 Payment Gateway Integration – Secure online payment through Razorpay/Stripe <br>
 🔹 Order History & Tracking – View past orders and current delivery status <br>
 🔹 Admin Dashboard – Product management, order analytics, and user control <br>
@@ -30,4 +32,3 @@ Peachy Petal is a fully functional, secure, and visually appealing online shoppi
 🔹 User Wishlist – Save favorite products for later <br>
 🔹 Ratings & Reviews – Community feedback and product ratings <br>
 🔹 Dark Mode Toggle – Personalized UI preference setting <br>
-
